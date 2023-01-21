@@ -1,0 +1,219 @@
+{
+  "teacherClasslist": [
+    {
+      "id": 5,
+      "studentId": "Ana",
+      "gender": "Girl",
+      "grade": 8,
+      "mark": "Not Completed",
+      "subject": "Computer Science"
+    },
+    {
+      "id": 7,
+      "studentId": "Mike",
+      "gender": "Non-Binary",
+      "grade": 9,
+      "subject": "Computer Science",
+      "mark": "D"
+    },
+    {
+      "studentId": "Jiff",
+      "gender": "Girl",
+      "grade": 9,
+      "mark": "B",
+      "subject": "Computer Science",
+      "id": 11
+    },
+    {
+      "studentId": "Michael",
+      "gender": "Boy",
+      "grade": 8,
+      "mark": "Not Completed",
+      "subject": "Computer Science",
+      "id": 12
+    },
+    {
+      "studentId": "Scott",
+      "gender": "Boy",
+      "grade": 9,
+      "mark": "B",
+      "subject": "Computer Science",
+      "id": 13
+    },
+    {
+      "studentId": "Emilly",
+      "gender": "Girl",
+      "grade": 10,
+      "mark": "B",
+      "subject": "Computer Science",
+      "id": 15
+    },
+    {
+      "studentId": "Michelle",
+      "gender": "Girl",
+      "grade": 9,
+      "mark": "B",
+      "subject": "Computer Science",
+      "id": 20
+    },
+    {
+      "studentId": "Frankie",
+      "gender": "Girl",
+      "grade": 9,
+      "id": 22,
+      "subject": "Computer Science",
+      "mark": "C"
+    },
+    {
+      "studentId": "Phuong",
+      "gender": "Girl",
+      "grade": 9,
+      "subject": "Computer Science",
+      "id": 23
+    },
+    {
+      "studentId": "Vu-Hoang",
+      "gender": "Girl",
+      "grade": 9,
+      "id": 24,
+      "subject": "Computer Science",
+      "mark": "A"
+    },
+    {
+      "studentId": "Daniel",
+      "gender": "Boy",
+      "grade": 9,
+      "id": 25,
+      "subject": "Computer Science",
+      "mark": "Not Completed"
+    },
+    {
+      "studentId": "Candice",
+      "gender": "Girl",
+      "grade": 10,
+      "id": 26,
+      "subject": "Computer Science",
+      "mark": "B"
+    },
+    {
+      "studentId": "Derbie",
+      "gender": "LGBTQ+",
+      "grade": 9,
+      "subject": "Computer Science",
+      "id": 27,
+      "mark": "Not Completed"
+    },
+    {
+      "studentId": "Benjamin",
+      "gender": "Boy",
+      "grade": 9,
+      "subject": "Computer Science",
+      "id": 31,
+      "mark": "C"
+    },
+    {
+      "studentId": "Ben",
+      "gender": "Boy",
+      "grade": 9,
+      "subject": "Computer Science",
+      "id": 32,
+      "mark": "C"
+    },
+    {
+      "studentId": "Sam",
+      "gender": "Boy",
+      "grade": 10,
+      "mark": "F",
+      "subject": "Computer Science",
+      "id": 33
+    },
+    {
+      "studentId": "Molly",
+      "gender": "Girl",
+      "grade": 9,
+      "subject": "Computer Science",
+      "mark": "Not Completed",
+      "id": 34
+    },
+    {
+      "studentId": "Thomas",
+      "gender": "Boy",
+      "grade": 9,
+      "subject": "Computer Science",
+      "mark": "B",
+      "id": 35
+    },
+    {
+      "studentId": "Timothy",
+      "gender": "Boy",
+      "grade": 9,
+      "mark": "A",
+      "subject": "Computer Science",
+      "id": 36
+    },
+    {
+      "studentId": "Billy",
+      "gender": "Boy",
+      "grade": 9,
+      "mark": "Not Completed",
+      "subject": "Computer Science",
+      "id": 37
+    },
+    {
+      "studentId": "Folly",
+      "gender": "Girl",
+      "grade": 8,
+      "mark": "Not Completed",
+      "id": 38,
+      "subject": "Computer Science"
+    },
+    {
+      "studentId": "Alana",
+      "gender": "Girl",
+      "grade": 9,
+      "mark": "Not Completed",
+      "subject": "Computer Science",
+      "id": 39
+    },
+    {
+      "studentId": "Fin",
+      "gender": "Non-Binary",
+      "grade": 9,
+      "mark": "Not Completed",
+      "subject": "Computer Science",
+      "id": 40
+    },
+    {
+      "studentId": "Belle",
+      "gender": "Girl",
+      "grade": 10,
+      "mark": "Not Completed",
+      "subject": "Computer Science",
+      "id": 41
+    },
+    {
+      "studentId": "Me Thuy",
+      "gender": "Girl",
+      "grade": 10,
+      "mark": "A",
+      "subject": "Computer Science",
+      "id": 42
+    },
+    {
+      "studentId": "Polly Pocket",
+      "gender": "Non-Binary",
+      "grade": 9,
+      "mark": "B",
+      "subject": "Computer Science",
+      "id": 43
+    },
+    {
+      "studentId": "Betty",
+      "gender": "Girl",
+      "grade": "9",
+      "mark": "Not Completed",
+      "subject": "Computer Science",
+      "id": 44
+    }
+  ]
+}
